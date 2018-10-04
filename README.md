@@ -1,2 +1,2 @@
 ## GEO
-> 终于会用github了，不容易！！！
+### 原始代码来源：https://github.com/jmzeng1314/GEO
